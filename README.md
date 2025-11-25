@@ -53,6 +53,7 @@ Run the Application Ensure the best.pt file is in the same directory as app.py, 
 ```
 
 streamlit run app.py
+```
 The app will open in your browser at http://localhost:8501.
 
 ## 📊 Model Performance
